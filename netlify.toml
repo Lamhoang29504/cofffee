@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/vhcoffe.html"
+status = 200
